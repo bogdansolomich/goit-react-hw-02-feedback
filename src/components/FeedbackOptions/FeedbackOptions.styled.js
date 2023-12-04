@@ -28,5 +28,6 @@ export const Btn = styled.button`
   &:hover,
   &:focus {
     transform: scale(1.1);
+    cursor: pointer;
   }
 `;
